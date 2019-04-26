@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/atran/.platformio/penv/bin:/Users/atran/.platformio/penv:/Users/atran/.composer/vendor/bin:/Users/atran/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
